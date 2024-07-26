@@ -54,18 +54,12 @@
 
 <br clear="both">
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="GitHub Snake" src="dist/github-snake.svg" />
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/the_anonymous">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_anonymous&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
