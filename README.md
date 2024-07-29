@@ -47,11 +47,11 @@
 <h2 align="center">Connect With Me🤝</h2>
 
 <div align="center">
-  <a href="discord.com/users/the_anonymous_beep" target="_blank">
+  <a href="https://discord.com/users/the_anonymous_beep" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="30" alt="discord logo"  />
   </a>
    <img width="12" />
-  <a href="t.me/shane25225"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"  height="30" alt="telegram logo"  /></a>
+  <a href="https://t.me/shane25225"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"  height="30" alt="telegram logo"  /></a>
    <img width="12" />
   <a href="mailto:thecrusader.25225@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="30" alt="gmail logo"  />
