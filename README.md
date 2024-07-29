@@ -7,9 +7,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecrusader25225&theme=tokyonight" alt="mystreak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecrusader25225&theme=tokyonight" alt="mystreak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
+  
 </div>
 
 ###
