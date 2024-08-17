@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm a B.Tech student in Computer Science and Engineering at KIIT, India and an enthusiastic web developer. I specialize in HTML, CSS, JavaScript, React, Tailwind CSS, and Firebase. My projects include Weatherly, a dynamic weather app with custom backgrounds, and Melody Flow, a music management platform for creating and managing playlists. I'm passionate about building interactive and user-friendly web experiences and always eager to take on new challenges.</h4>
+<h4 align="center">I'm a B.Tech student in Computer Science and Engineering at KIIT, India and an enthusiastic web developer. I specialize in HTML, CSS, JavaScript, React, Tailwind CSS, and Firebase. I'm passionate about building interactive and user-friendly web experiences and always eager to take on new challenges.</h4>
 
 ###
 
