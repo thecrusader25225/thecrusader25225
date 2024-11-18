@@ -9,10 +9,11 @@
 <div align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" width="375" /> -->
 <img src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&show_icons=true&theme=gotham" alt="github stats" width="400" align="center" height="160"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecrusader25225&theme=tokyonight" alt="mystreak" width="400" height="160"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  width="400"/>
-  
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecrusader25225&theme=tokyonight" alt="mystreak" width="400" height="160"/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  width="400"/>
+<a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
+      <img src="https://leetcard.jacoblin.cool/the_anonymous?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
+</a>
 </div>
 
 ###
@@ -74,6 +75,7 @@
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="GitHub Snake" src="dist/github-snake.svg" />
 </picture>
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
 </div>
 
 ###
