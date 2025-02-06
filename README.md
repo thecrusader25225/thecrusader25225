@@ -39,6 +39,8 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12"/>
 <!--   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
