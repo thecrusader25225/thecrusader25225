@@ -1,83 +1,65 @@
-<h1 align="center">Hi 👋, I'm Debangshu Nath</h1>
+<h3 align="center">Hi 👋, I'm Debangshu Nath</h3>
+<h4 align="center">Software Engineer |  Devops • Full-stack • Open-Source</h4>
 
-###
+<h5 align="center">
+      Software Engineer passionate about open-source, Kubernetes, and cloud-native architecture. Building and contributing to GitOps workflows, platform tooling, and distributed systems. Exploring AI-powered automation pipelines.
+         <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</h5>
 
-<h4 align="center">I'm a B.Tech student in Computer Science and Engineering at KIIT, India and an enthusiastic web developer. I specialize in HTML, CSS, JavaScript, React, Tailwind CSS, and Firebase. I'm passionate about building interactive and user-friendly web experiences and always eager to take on new challenges.</h4>
-
-###
-
-<div align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats" width="375" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=thecrusader25225&show_icons=true&theme=gotham" alt="github stats" width="400" align="center" height="160"/>
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecrusader25225&theme=tokyonight" alt="mystreak" width="400" height="160"/> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  width="400"/>
-<a href="https://leetcode.com/cheehwatang#gh-dark-mode-only">
-      <img src="https://leetcard.jacoblin.cool/the_anonymous?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-</a>
-</div>
-
-###
-<br clear="both">
-<h2 align="center">Tech Stack 💻</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-<!--   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" /> -->
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12"/>
-<!--   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  
-</div>
-
-###
-
-<br clear="both">
-<h2 align="center">Connect With Me🤝</h2>
-
-<div align="center">
-  <a href="https://discord.com/users/the_anonymous_beep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"  height="30" alt="discord logo"  />
+<p align="center">
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-   <img width="12" />
-  <a href="https://t.me/shane25225"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"  height="30" alt="telegram logo"  /></a>
-   <img width="12" />
-  <a href="mailto:thecrusader.25225@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  height="30" alt="gmail logo"  />
+  <a href="https://your-resume-link.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
-  
+</p>
+<br clear="both">
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20cloud-%232671E5.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+<br clear="both">
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="175" width="400"/>
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=thecrusader25225&theme=radical&hide_border=false" height="175" width="400"/>
 </div>
 
-###
-
 <br clear="both">
+<h3 align="center">Connect With Me</h3>
 
+<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/debangshu-nath">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/SouthLanguage2166">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  </a>
+  <a href="mailto:thecrusader.25225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
+  </a>
+</p>
+<!-- <img src="https://komarev.com/ghpvc/?username=thecrusader25225&label=Profile views&color=0e75b6&style=flat" alt="thecrusader25225" /> -->
+</div>
+<br clear="both">
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <!-- <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" /> -->
   <img alt="GitHub Snake" src="dist/github-snake.svg" />
 </picture>
-   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
 </div>
-
-###
