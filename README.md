@@ -1,10 +1,17 @@
 <h3 align="center">Hi 👋, I'm Debangshu Nath</h3>
 <h4 align="center">Software Engineer |  Devops • Full-stack • Open-Source</h4>
-
-<h5 align="center">
-      I am a Software Engineer passionate about open-source, Kubernetes, and cloud-native architecture. Building and contributing to GitOps workflows, platform tooling, and distributed systems. Exploring AI-powered automation pipelines.
-         <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
-</h5>
+<table align="center">
+  <tr>
+    <td>
+      • I work on Kubernetes and cloud-native systems.<br/>
+      • I build and contribute to GitOps workflows, platform tooling, and distributed systems.<br/>
+      • Currently exploring AI-powered automation pipelines.
+    </td>
+  </tr>
+</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</div>
 
 <p align="center">
   <a href="https://your-portfolio-url.com" target="_blank">
@@ -30,8 +37,9 @@
 </p>
 <br clear="both">
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="175" width="400"/>
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=thecrusader25225&theme=radical&hide_border=false" height="175" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrusader25225&theme=gruvbox"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecrusader25225&theme=gruvbox" />
 </div>
 
 <br clear="both">
