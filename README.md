@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Debangshu Nath</h3>
-<h4 align="center">Software Engineer |  Devops • Full-stack </h4>
+<h4 align="center">Software Engineer |  Cloud-Native • Devops </h4>
 <table align="center">
   <tr>
     <td>
