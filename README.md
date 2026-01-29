@@ -9,10 +9,6 @@
     </td>
   </tr>
 </table>
-<div align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
-</div>
-
 <p align="center">
   <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -21,6 +17,10 @@
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
 </p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</div>
+
 <br clear="both">
 <h3 align="center">Tech Stack</h3>
 <p align="center">
