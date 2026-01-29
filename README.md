@@ -2,7 +2,7 @@
 <h4 align="center">Software Engineer |  Devops • Full-stack • Open-Source</h4>
 
 <h5 align="center">
-      Software Engineer passionate about open-source, Kubernetes, and cloud-native architecture. Building and contributing to GitOps workflows, platform tooling, and distributed systems. Exploring AI-powered automation pipelines.
+      I am a Software Engineer passionate about open-source, Kubernetes, and cloud-native architecture. Building and contributing to GitOps workflows, platform tooling, and distributed systems. Exploring AI-powered automation pipelines.
          <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
 </h5>
 
@@ -16,7 +16,6 @@
 </p>
 <br clear="both">
 <h3 align="center">Tech Stack</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -40,19 +39,20 @@
 
 <div align="center">
 <p align="center">
-  <a href="https://linkedin.com/in/debangshu-nath">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/debangshu-nath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://reddit.com/user/SouthLanguage2166">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" />
+  <a href="https://github.com/thecrusader25225" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:thecrusader.25225@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/>
+  <a href="https://discord.com/users/the_anonymous_beep" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
 <!-- <img src="https://komarev.com/ghpvc/?username=thecrusader25225&label=Profile views&color=0e75b6&style=flat" alt="thecrusader25225" /> -->
 </div>
 <br clear="both">
