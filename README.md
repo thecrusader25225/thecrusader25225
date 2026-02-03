@@ -23,9 +23,6 @@
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
 </p> -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
-</div>
 
 <br clear="both">
 <h3 align="center">Tech Stack</h3>
@@ -41,6 +38,11 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/google%20cloud-%232671E5.svg?style=for-the-badge&logo=googlecloud&logoColor=white" /> -->
+  
+  <!-- <div align="center">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</div> -->
+
 </p>
 <br clear="both">
 <div align="center">
