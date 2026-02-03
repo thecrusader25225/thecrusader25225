@@ -24,7 +24,7 @@
   </a>
 </p> -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -52,7 +52,7 @@
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecrusader25225&theme=tokyonight"/> -->
 </div>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 <h3 align="center">Connect With Me</h3>
 
 <div align="center">
@@ -73,7 +73,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=thecrusader25225&label=Profile views&color=0e75b6&style=flat" alt="thecrusader25225" /> -->
 </div>
-<br clear="both">
+<!-- <br clear="both"> -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
