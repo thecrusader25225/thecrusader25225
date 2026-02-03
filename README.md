@@ -44,11 +44,12 @@
 </div> -->
 
 </p>
-<br clear="both">
+<!-- <br clear="both"> -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrusader25225&theme=gruvbox"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecrusader25225&theme=gruvbox" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrusader25225&theme=tokyonight"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" /> -->
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecrusader25225&theme=tokyonight" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecrusader25225&theme=tokyonight"/> -->
 </div>
 
 <br clear="both">
