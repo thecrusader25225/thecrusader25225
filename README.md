@@ -1,11 +1,11 @@
 <h3 align="center">Hi 👋, I'm Debangshu Nath</h3>
-<h4 align="center">Software Engineer |  Cloud-Native • Devops </h4>
+<h4 align="center">Software Engineer | Distributed Systems • DevOps • Computer Vision </h4>
 <table align="center">
   <tr>
     <td>
-      • I work on Kubernetes and cloud-native systems.<br/>
-      • I build and contribute to GitOps workflows, platform tooling, and distributed systems.<br/>
-      • Currently exploring AI-powered automation pipelines.
+      • Building cloud-native systems and backend infrastructure.<br/>
+      • Working with Kubernetes, automation, and distributed platforms.<br/>
+      • Exploring machine learning pipelines and AI-powered systems.
     </td>
   </tr>
 </table>
