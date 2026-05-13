@@ -1,11 +1,11 @@
-<h3 align="center">Hi 👋, I'm Debangshu Nath</h3>
-<h4 align="center">Software Engineer | Distributed Systems • DevOps • Computer Vision </h4>
+<h3 align="center">Hi, I'm Debangshu Nath</h3>
+<h4 align="center">Software Engineer | Distributed Systems • DevOps • Kubernetes • ML Infrastructure</h4>
 <table align="center">
   <tr>
     <td>
-      • Building cloud-native systems and backend infrastructure.<br/>
-      • Working with Kubernetes, automation, and distributed platforms.<br/>
-      • Exploring machine learning pipelines and AI-powered systems.
+      • Building GitOps-managed infrastructure and backend systems<br/>
+      • Working with Kubernetes, distributed platforms, and deployment automation<br/>
+      • Exploring machine learning pipelines, edge AI and computer vision systems.
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/google%20cloud-%232671E5.svg?style=for-the-badge&logo=googlecloud&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/google%20cloud-%232671E5.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
   
   <!-- <div align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
@@ -49,16 +49,15 @@
 </p>
 <!-- <br clear="both"> -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrusader25225&theme=tokyonight"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecrusader25225&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" /> -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=thecrusader25225&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thecrusader25225&layout=compact&theme=tokyonight"/>
-<!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecrusader25225&theme=tokyonight" /> -->
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecrusader25225&theme=tokyonight"/> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrusader25225&theme=tokyonight"/> -->
+
+  <img width=350 height=150 src="https://github-readme-stats-fast.vercel.app/api?username=thecrusader25225&show_icons=true&theme=tokyonight"/>
+<img width=300 height=150 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thecrusader25225&layout=compact&theme=tokyonight"/>
+
 </div>
 
 <!-- <br clear="both"> -->
-<h3 align="center">Connect With Me</h3>
+<!-- <h3 align="center">Connect With Me</h3> -->
 
 <div align="center">
 <p align="center">
@@ -66,7 +65,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/thecrusader25225" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> -->
   </a>
   <a href="mailto:thecrusader.25225@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -79,15 +78,11 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=thecrusader25225&label=Profile views&color=0e75b6&style=flat" alt="thecrusader25225" /> -->
 </div>
 <!-- <br clear="both"> -->
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="GitHub Snake" src="dist/github-snake.svg" />
-</picture>
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture> -->
+
 </div>
