@@ -15,14 +15,14 @@
   </a>
 </p> -->
 
-<!-- <p align="center">
-  <a href="https://your-portfolio-url.com" target="_blank">
+ <p align="center">
+  <a href="https://debangshu-nath.carrd.co/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://your-resume-link.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1pgTpSyLHtw08XPLrFb6C33U8oPCALkWN/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge"/>
   </a>
-</p> -->
+</p> 
 
 <!-- <br clear="both"> -->
 <h3 align="center">Tech Stack</h3>
